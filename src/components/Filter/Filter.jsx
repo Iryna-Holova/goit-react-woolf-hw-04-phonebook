@@ -1,4 +1,3 @@
-import React from 'react';
 import { IconContext } from 'react-icons';
 import { FiSearch, FiX } from 'react-icons/fi';
 import css from './Filter.module.css';

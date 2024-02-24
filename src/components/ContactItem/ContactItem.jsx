@@ -1,4 +1,3 @@
-import React from 'react';
 import { IconContext } from 'react-icons';
 import { FiUser, FiPhone, FiX } from 'react-icons/fi';
 import HighlightSearchResult from 'components/HighlightSearchResult/HighlightSearchResult';
